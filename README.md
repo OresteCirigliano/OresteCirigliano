@@ -1,5 +1,4 @@
 <h1 align="center">Ciao👋, This is Oreste Cirigliano</h1>
-<h3 align="center">Dynamic Data Analyst, Growth Seeker Who's intresed in Business & Tech Industries, Passoinate about being part of cool data team!</h3>
 
 - 🔭 I’m experienced user of **Advanced Excel | SQL | Power BI | Tableau |EDA using Python**
 
