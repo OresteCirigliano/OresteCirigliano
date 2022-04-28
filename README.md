@@ -7,6 +7,7 @@
 - 🤝 I’m looking for help with **Creating Dashboard, Reports and Data-Driven Analytics**
 
 - 📫 How to reach me **oreste.cirigliano28@gmail.com**
+- www.linkedin.com/in/oreste-cirigliano
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
