@@ -1,6 +1,6 @@
 <h1 align="center">Ciao👋, This is Oreste Cirigliano</h1>
 
-- 🔭 I’m experienced user of **Advanced Excel | SQL | Power BI | Tableau |EDA using Python**
+- 🔭 I’m experienced user of **Advanced Excel | SQL | Power BI | Tableau | EDA using Python**
 
 - ⚡ I'm having a great knowlegde of **Database ERD,EERD,Mapping,Designing,Implementation using MS Server**
 
